@@ -8,6 +8,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "element-plus": "^1.1.0-beta.7",
+    "husky-left-menu-plus": "^0.1.4",
     "vue": "^3.0.0-rc.1",
     "vue-router": "^4.0.11",
     "vuex": "^4.0.2"
