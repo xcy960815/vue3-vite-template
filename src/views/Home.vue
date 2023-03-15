@@ -1,20 +1,20 @@
 <template>
-  <div class="home">
-    <span>我爱我家</span>
-    <el-button>默认按钮</el-button>
-  </div>
+	<div class="home">
+		<span>vue3-vite-template</span>
+		<el-button>默认按钮</el-button>
+	</div>
 </template>
 
-<script lang='ts'>
-import { defineComponent } from 'vue'
+<script lang="ts">
+import { defineComponent } from 'vue';
 
 export default defineComponent({
-  setup() {},
-})
+	setup() {},
+});
 </script>
 
-<style lang='less' scoped>
+<style lang="less" scoped>
 .home {
-  position: relative;
+	position: relative;
 }
 </style>

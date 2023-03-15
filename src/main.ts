@@ -6,7 +6,6 @@ import './index.css';
 import ElementPlus from 'element-plus';
 import 'element-plus/dist/index.css';
 import huskyLeftMenuPlus from 'husky-left-menu-plus';
-console.log('huskyLeftMenuPlus', huskyLeftMenuPlus);
 
 import 'husky-left-menu-plus/dist/index.css';
 import store from './store/index';
